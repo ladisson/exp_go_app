@@ -1,0 +1,6 @@
+[Unit]
+Description=EXP_GO service
+
+[Service]
+ExecStart=/opt/go_exp/main &
+
